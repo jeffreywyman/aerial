@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Hello! I'm Jeffrey"
-baseurl = "https://jeffreypwyman.com"
+baseurl = "https://actuary-chipmunk-53643.netlify.com"
 theme = "aerial"
 
 [params]
